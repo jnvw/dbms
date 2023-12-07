@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { name: 'Practical 9Q', file: 'Prac-9.pdf' },
         { name: 'Practical 10', file: 'pr10.pdf' },
         { name: 'Practical 10Q', file: 'Prac-10.pdf' },
+        { name: 'All', file: 'DBMS_compressed.pdf' },
     ];
 
     // Generate buttons for each practical
